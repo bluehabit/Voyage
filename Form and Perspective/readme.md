@@ -1,1 +1,21 @@
+## Form
 
+![f](https://imgur.com/6rEV3eW.png)
+
+## Perspective
+
+![f](https://imgur.com/lbfezOl.png)
+
+![f](https://imgur.com/4nDAg8o.png)
+
+![f](https://imgur.com/zXIsKxp.png)
+
+## Box
+
+Multiple boxes all at various distances approaching the horizon line, notice what happens to their top faces.
+
+![f](https://imgur.com/ynPMLTc.png)
+
+![f](https://imgur.com/ZBs1n9d.png)
+
+![f](https://imgur.com/ktXqwxd.png)
