@@ -10,6 +10,12 @@ Block in your major forms with the flat brush. If you attempt to do this with th
 
 ![f](https://imgur.com/A5P47bA.png)
 
+![f](https://imgur.com/gPLbfeg.png)
+
+![f](https://imgur.com/G09WP6F.png)
+
+![f](https://imgur.com/vaQTjng.png)
+
 
 ## Edge Control
 
