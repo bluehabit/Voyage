@@ -19,6 +19,8 @@
 
 ![f](https://imgur.com/zXIsKxp.png)
 
+![f](https://imgur.com/a/Q8SpJ.png)
+
 ## Box
 
 Multiple boxes all at various distances approaching the horizon line, notice what happens to their top faces.
