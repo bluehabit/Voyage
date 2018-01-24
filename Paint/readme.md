@@ -15,7 +15,7 @@ Block in your major forms with the flat brush. If you attempt to do this with th
 
 ![f](https://imgur.com/1hZ1wkG.png)
 
-Can make it easier to preserve hard edges by saving your major cast shadow areas as a selection, then loading the selection when needed to harden them up.
+Can make it easier to preserve hard edges by saving your major cast shadow areas as a selection, then loading the selection when needed to harden them up. Can also make quick `temporary` selections using your laso tool. 
 
 ![f](https://imgur.com/bWGrvu0.png)
 
