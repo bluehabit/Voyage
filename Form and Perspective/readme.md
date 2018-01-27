@@ -1,8 +1,3 @@
-## Form
-
-![f](https://imgur.com/6rEV3eW.png)
-
-
 ## Box and Cylinder Bible
 
 ![f](https://imgur.com/r093UuE.png)
@@ -22,6 +17,8 @@
 ![f](https://imgur.com/DpcriBa.png)
 
 ![f](https://imgur.com/TY4Bdsl.png)
+
+![f](https://imgur.com/VYfXH7c.png)
 
 
 ## Box
