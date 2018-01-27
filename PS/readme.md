@@ -17,3 +17,5 @@ With the `burn` tool can hold alt while using it to do the inverse and brigthen 
 ## Color Picker
 
 ![f](https://imgur.com/f9SovFr.png)
+
+![f](https://imgur.com/r5aXend.png)
