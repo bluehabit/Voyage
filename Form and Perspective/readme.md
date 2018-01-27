@@ -1,5 +1,7 @@
 ## Box and Cylinder Bible
 
+![f](https://imgur.com/Y8bV0T4.png)
+
 ![f](https://imgur.com/r093UuE.png)
 
 ![f](https://imgur.com/SOFFiYI.png)
@@ -34,8 +36,6 @@ Multiple boxes all at various distances approaching the horizon line, notice wha
 ![f](https://imgur.com/ktXqwxd.png)
 
 ![f](https://imgur.com/loWTjSv.png)
-
-![f](https://imgur.com/doFEJQa.png)
 
 
 ## Vertical Parallel Lines Towards 3rd VP
