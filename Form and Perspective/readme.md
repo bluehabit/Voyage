@@ -32,7 +32,7 @@ Multiple boxes all at various distances approaching the horizon line, notice wha
 
 ![f](https://imgur.com/ktXqwxd.png)
 
-![f](https://imgur.com/a/OG9DN.png)
+![f](https://imgur.com/loWTjSv.png)
 
 
 ## Vertical Parallel Lines Towards 3rd VP
