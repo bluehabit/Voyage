@@ -35,7 +35,15 @@ Multiple boxes all at various distances approaching the horizon line, notice wha
 
 ![f](https://imgur.com/loWTjSv.png)
 
+![f](https://imgur.com/doFEJQa.png)
+
 
 ## Vertical Parallel Lines Towards 3rd VP
 
 ![f](https://imgur.com/OLh3PEf.png)
+
+## Rotating a square and rectangle
+
+![f](https://imgur.com/doFEJQa.png)
+
+
