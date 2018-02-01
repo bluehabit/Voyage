@@ -7,3 +7,9 @@
 ![f](https://imgur.com/Q05B7N1.png)
 
 ![f](https://imgur.com/6rEV3eW.png)
+
+![f](https://imgur.com/6hAY2E7.png)
+
+![f](https://imgur.com/C4557vq.png)
+
+![f](https://imgur.com/jlTxSf1.png)
