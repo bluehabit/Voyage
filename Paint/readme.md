@@ -30,3 +30,5 @@ Can make it easier to preserve hard edges by saving your major cast shadow areas
 ![f](https://imgur.com/eJvuwl2.png)
 
 ![f](https://imgur.com/V5uZITw.png)
+
+![f](https://imgur.com/a/0oDqH.png)
