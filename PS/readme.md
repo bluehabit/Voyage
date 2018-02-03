@@ -1,3 +1,8 @@
+## Standard Canvas Preset
+
+Note `16 bit` color depth. 
+
+![f](https://imgur.com/tGe5RhK.png)
 
 ## Adjusting brush hardness diameter on the fly
 
