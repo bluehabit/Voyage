@@ -19,3 +19,5 @@
 ## Cheek Bones
 
 ![f](https://imgur.com/QUioW5L.png)
+
+![f](https://imgur.com/W2mw4wZ.png)
